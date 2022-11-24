@@ -1,2 +1,2 @@
 # RBF
-Neural-Networks
+Neural-Networks-lab
